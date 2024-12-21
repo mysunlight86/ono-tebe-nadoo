@@ -216,7 +216,6 @@
 }
 
 .about__logo {
-  display: block;
   display: flex;
   justify-content: center;
   width: 240px;
